@@ -21,3 +21,7 @@
 # and it obviously has to be a wee hello world
 print('Hello World')
 ```
+#### now a task list
+- [ ] maybe start to THINK about taking a break from the computer today
+- [ ] use the text above as some serious evidence that you need to step back from the computer
+- [ ] ok now take that break
