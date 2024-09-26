@@ -15,3 +15,9 @@
 ![Image of Octoqueer](https://octodex.github.com/images/Octoqueer.png)
 ###### Ok ok last one coming up, promise
 ![Image of PrivateInvestocat](https://octodex.github.com/images/privateinvestocat.jpg)
+
+#### Now an example of some code beacuase why not?
+``` python3
+# and it obviously has to be a wee hello world
+print('Hello World')
+```
